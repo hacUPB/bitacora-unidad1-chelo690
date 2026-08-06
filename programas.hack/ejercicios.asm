@@ -1,4 +1,4 @@
-//copiar una constante al registro D
+
 
 @1954
 D=A 
