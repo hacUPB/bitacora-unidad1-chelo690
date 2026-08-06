@@ -119,4 +119,14 @@ M=M+1
 ```
 ![Program](Capturas/Program.png)
 
+## Sesion 5
+
+Actividad Puntero
+
+```
+@SCREEN
+M=1
+```
+
+
 ## marcelo villegas - 000428106
